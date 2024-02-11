@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1c30765-1075-4864-93f7-d1d8ab811618" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/seleniumPythonendtoend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/test_validating_add_address_page_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/test_validating_login_page_details.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/test_validating_logout_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/test_validating_search_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/conftest/diversetup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/error_content/Errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/pages/addaddresspage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/pages/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/pages/logout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pobamazon/pages/searchpage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cA1DKeVOH08waHUtzjkP0m4mKD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for allTest.test_login_details.executor": "Run",
+    "Python tests.Python tests for pobamazon.Testpage.test_login_test.test_login_details.executor": "Run",
+    "Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details.executor": "Run",
+    "Python tests.Python tests in allTest.py.executor": "Run",
+    "Python tests.Python tests in test_addaddresstest.py.executor": "Run",
+    "Python tests.Python tests in test_allTest.py.executor": "Run",
+    "Python tests.pytest in test_validating_logout_page.py.executor": "Run",
+    "Python tests.pytest in test_validating_search_page.py.executor": "Run",
+    "Python.loginpage.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/vikas/PycharmProjects/seleniumPythonendtoend/pobamazon/Testpage/test_validating_logout_page.py",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details">
+    <configuration name="Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="seleniumPythonendtoend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pobamazon/Testpage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;pobamazon.Testpage.test_validating_login_page_details.test_login_details&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_validating_add_address_page_details.py" type="tests" factoryName="Autodetect" nameIsGenerated="true">
+      <module name="seleniumPythonendtoend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/.venv/bin/python" />
+      <option name="SDK_NAME" value="Python 3.10 (seleniumPythonendtoend)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pobamazon/Testpage/test_validating_add_address_page_details.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_validating_logout_page.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="seleniumPythonendtoend" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/.venv/bin/python" />
+      <option name="SDK_NAME" value="Python 3.10 (seleniumPythonendtoend)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/pobamazon/Testpage/test_validating_logout_page.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Python tests in test_validating_add_address_page_details.py" />
+      <item itemvalue="Python tests.pytest in test_validating_logout_page.py" />
+      <item itemvalue="Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1c30765-1075-4864-93f7-d1d8ab811618" name="Changes" comment="" />
+      <created>1707539447898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707539447898</updated>
+    </task>
+    <servers />
+  </component>
+</project>
