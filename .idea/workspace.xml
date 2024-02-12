@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1c30765-1075-4864-93f7-d1d8ab811618" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/seleniumPythonendtoend.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/test_validating_add_address_page_details.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/test_validating_login_page_details.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/test_validating_logout_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/Testpage/test_validating_search_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/conftest/diversetup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/error_content/Errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/pages/addaddresspage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/pages/loginpage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/pages/logout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pobamazon/pages/searchpage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,24 +31,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for allTest.test_login_details.executor": "Run",
-    "Python tests.Python tests for pobamazon.Testpage.test_login_test.test_login_details.executor": "Run",
-    "Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details.executor": "Run",
-    "Python tests.Python tests in allTest.py.executor": "Run",
-    "Python tests.Python tests in test_addaddresstest.py.executor": "Run",
-    "Python tests.Python tests in test_allTest.py.executor": "Run",
-    "Python tests.pytest in test_validating_logout_page.py.executor": "Run",
-    "Python tests.pytest in test_validating_search_page.py.executor": "Run",
-    "Python.loginpage.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/vikas/PycharmProjects/seleniumPythonendtoend/pobamazon/Testpage/test_validating_logout_page.py",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for allTest.test_login_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for pobamazon.Testpage.test_login_test.test_login_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in allTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_addaddresstest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_allTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_validating_logout_page.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_validating_search_page.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loginpage.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/vikas/PycharmProjects/PytestImplementation&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details">
     <configuration name="Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="seleniumPythonendtoend" />
@@ -118,9 +100,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details" />
       <item itemvalue="Python tests.Python tests in test_validating_add_address_page_details.py" />
       <item itemvalue="Python tests.pytest in test_validating_logout_page.py" />
-      <item itemvalue="Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details" />
     </list>
     <recent_temporary>
       <list>
