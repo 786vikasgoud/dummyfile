@@ -100,9 +100,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details" />
       <item itemvalue="Python tests.Python tests in test_validating_add_address_page_details.py" />
       <item itemvalue="Python tests.pytest in test_validating_logout_page.py" />
+      <item itemvalue="Python tests.Python tests for pobamazon.Testpage.test_validating_login_page_details.test_login_details" />
     </list>
     <recent_temporary>
       <list>
